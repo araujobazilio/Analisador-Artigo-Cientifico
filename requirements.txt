@@ -1,0 +1,7 @@
+streamlit==1.32.0
+langchain==0.3.19
+langchain-openai==0.3.7
+openai==1.65.1
+tiktoken==0.6.0
+PyMuPDF==1.25.3
+python-dotenv==1.0.0
